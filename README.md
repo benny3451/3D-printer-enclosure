@@ -7,7 +7,7 @@ General idea
 I live in a small student apartment in a shared flat and therefore my 3D-printer has to be in my living/bed room. Therefore I wanted to find a solution to the noise and fume issues every 3D-printer has. The obvious answer was to build or buy an enclosure, but since there were no enclosures including filtering which met my requirements, my design choices or were just too expensive, I decided to go the DIY route. To be fair this is still  by no means a "cheap" project but I think it turned out great and so far it is meeting all the requirements I had concerning temperature, air filtration and noise cancellation. This Depository is dedicated to documenting my design and bbuild process and hopefully help you avoid some mistakes and give others inspiration to try it for themselves.
 
 **First design in Tinkercad**
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![Image](https://imagizer.imageshack.com/img923/5624/Z1NAQc.png)
 
 Implementation:
