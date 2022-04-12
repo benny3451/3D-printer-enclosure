@@ -6,19 +6,29 @@ General idea
 ------------
 I live in a small student apartment in a shared flat and therefore my 3D-printer has to be in my living/bed room. Therefore I wanted to find a solution to the noise and fume issues every 3D-printer has. The obvious answer was to build or buy an enclosure, but since there were no enclosures including filtering which met my requirements, my design choices or were just too expensive, I decided to go the DIY route. To be fair this is still  by no means a "cheap" project but I think it turned out great and so far it is meeting all the requirements I had concerning temperature, air filtration and noise cancellation. This Depository is dedicated to documenting my design and bbuild process and hopefully help you avoid some mistakes and give others inspiration to try it for themselves.
 
-**First design in Tinkercad**
+**First design in Tinkercad:**
 
 ![Image](https://github.com/benny3451/3D-printer-enclosure/blob/main/pictures/Screenshot%202022-04-11%20145929.png)
 
 Choosing parts:
 --------------
 
-After a lot of searching I settled on 30x30mm almuninium profiles for the frame. I found a seller on Ebay selling pre-cut lengths of 100mm steps. So I ordered 4x500mm, 4x600mmm and 4x700mm lengths of profile and used corner connectors to construct the frame. For the top, the back and the bottom i decided to use 8mm wood panels which I had cut to size at a local hardware store. Looking back 6mm probably would have been a better choice because the profiles inner diameter is exactly 8mm and it was quite a tight fit. The sides and the removable front panels are seethrough so I chose acryllic glas which is relatively easy to work with and readily available. My local hardware store had 6mm acryllic panels in stock and they were cut to size with no extra cost.
+After a lot of searching I settled on 30x30mm almuninium profiles for the frame. I found a seller on Ebay selling pre-cut lengths of 100mm steps. So I ordered 4x500mm, 4x600mmm and 4x700mm lengths of profile and used corner connectors to construct the frame. For the top, the back and the bottom i decided to use 8mm wood panels which I had cut to size at a local hardware store. Looking back 6mm probably would have been a better choice because the profiles inner diameter is exactly 8mm and it was quite a tight fit. The sides and the removable front panels are seethrough so I chose acryllic glas which is relatively easy to work with and readily available. My local hardware store had 6mm acryllic panels in stock and they were cut to size with no extra cost. To fill the small gap between the aluminium extrusion and the acryllic I used cheap self adhesive window seals.
 
-**Connectors**
-![image](https://github.com/benny3451/3D-printer-enclosure/blob/main/pictures/714dwqiNd2L._AC_SL1500_.jpg)
+**Connectors:**
 
+<img src="https://github.com/benny3451/3D-printer-enclosure/blob/main/pictures/714dwqiNd2L._AC_SL1500_.jpg" width="300">
 
+**Sealings:**
+
+**Extrusions:**
+
+Assembling the frame:
+--------------
+
+For the assembly of the frame I started by slotting the wood panels into the aluminium profiles and securing the corners with the screw connectors. After this was done I designated one panel as "floor" and started building up the side profiles as well as putting in the back panel. I then added the self adhesive seals to the edges of the acryllic. Finally the acryllic was slotted in place and the top was closed and all the screws tightened.
+
+**Assembled frame pieces:**
 
 Sources
 ------
